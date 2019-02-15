@@ -8,5 +8,6 @@
     },
   "author": "",
   "license": "ISC",
-  "start": ""
+  "start": "",
+  "engines":{"node": "10.x"}
 }
