@@ -35,7 +35,7 @@ var friends =
   },
   {
       "name": "Ed",
-      "photo": "https://photos.google.com/photo/AF1QipMhLHkcl0QFZ7gCHWf6VlQU5DmlYvkqXetHVXhp",
+      "photo": "https://images.gr-assets.com/users/1394138179p5/29375478.jpg",
       "scores": [
           5,
           5,
