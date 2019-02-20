@@ -37,4 +37,4 @@ New Friend Modal
 
 ## Authors
 
-* **Ed Beaudet** - *HTML/JS/Node.js* - [Ed Beaudet](https://github.com/ebeaudet)
+[Ed Beaudet](https://github.com/ebeaudet)
